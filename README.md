@@ -1,3 +1,5 @@
+Slightly modified version of [original README](https://github.com/imanseau/Cloud9-PHP7-Upgrade/blob/master/README.md)
+
 # Cloud9-PHP7-Upgrade
 Quick and painless upgrade to PHP 7 for cloud9's development platform
 
